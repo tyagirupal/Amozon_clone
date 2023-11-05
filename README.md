@@ -144,25 +144,27 @@ html***
                 <a>Amazon Science</a>
             </ul>
             <ul>
-                <p>Get to Know Us</p>
-                <a>About Us</a>
-                <a>Careers</a>
-                <a>Press Releases</a>
-                <a>Amazon Science</a>
+                 <p>Connect with Us</p>
+                <a>Facebook</a>
+                <a>Twitter</a>
+                <a>Instagram</a>
             </ul>
             <ul>
-                <p>Get to Know Us</p>
-                <a>About Us</a>
-                <a>Careers</a>
-                <a>Press Releases</a>
-                <a>Amazon Science</a>
+               <p>Make Money With Us</p>
+                <a>Sell On Amozon</a>
+                <a>Sell Under Amozon Acceletor</a>
+                <a>Protect And Build Your Demand</a>
+                <a>Amazon Global selling</a>
+                <a>Become an Affilate</a>
+                <a>Fullfill by Amozon</a>
+                <a>Amazon Pay on Merchants</a>
             </ul>
             <ul>
-                <p>Get to Know Us</p>
-                <a>About Us</a>
-                <a>Careers</a>
-                <a>Press Releases</a>
-                <a>Amazon Science</a>
+               <p>Let us Help You</p>
+                <a>Covid-19 & Amozon</a>
+                <a>Your Account</a>
+                <a>Amozon Center</a>
+                <a>Return Center</a>
             </ul>
 
         </div>
